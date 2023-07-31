@@ -29,10 +29,10 @@ export const About = () => {
       </p>
       <h3>Feedback and Support:</h3>
       <p>
-        We value your feedback! If you have any suggestions or encounter any issues while using our app, please don't hesitate to contact our support team at <a href="mailto:support@example.com">support@example.com</a>. Your feedback helps us improve the app and make it even better for you!
+        We value your feedback! If you have any suggestions or encounter any issues while using our app, please don't hesitate to contact our support team at <a href="mailto:support@example.com">support@todos.com</a>. Your feedback helps us improve the app and make it even better for you!
       </p>
       <p>
-        Thank you for choosing our Todo List App. We hope it simplifies your life and boosts your productivity. Happy task managing!
+        Thank you for choosing  Todo List App. We hope it simplifies your life and boosts your productivity. Happy task managing!
       </p>
     </div>
   );
